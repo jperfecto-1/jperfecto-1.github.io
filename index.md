@@ -4,7 +4,7 @@ This is my home page! My name is Joel Perfecto and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/jperfecto-1.
+My GitHub page is (http://github.com/jperfecto-1).
 
 ### CPSC 120
 
